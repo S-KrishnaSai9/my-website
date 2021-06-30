@@ -1,0 +1,114 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    color: #40514E;
+}
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: "Akaya Kanadaka", cursive;
+  font-size: 5.62rem;
+}
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+.top {
+  background-color: #1F2833;
+  /* color : #A2DBFA; */
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 80px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.pro {
+  text-decoration: underline;
+}
+
+.topc {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottomc {
+  position: absolute;
+  left: 300px;
+  bottom : 300px;
+}
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+p {
+  color: #40514E;
+  line-height: 2;
+}
+a {
+  color: #1768AC;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+.skillimgcoding {
+  width: 25%;
+  float: left;
+  margin: auto 30px auto auto;
+}
+.skillimgpizza {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr {
+  margin: 80px 700px 80px 700px;
+  border: none;
+  border-top: 10px dotted grey;
+}
+.btn {
+ margin: 30px auto 30px auto;
+ background: #66BFBF;
+ color: white;
+ border-radius: 10px;
+ font-family: 'Montserrat', sans-serif;
+ font-size: 20px;
+ font-weight: 100;
+ padding: 10px;
+ text-decoration: none;
+ display: inline-block;
+ cursor: pointer;
+ text-align: center;
+}
+
+.btn:hover {
+   border: solid 1px;
+   background: #66BFBF;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.bottom-container {
+  margin-top: 30px;
+  background: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.copy {
+  margin-top: 40px;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
